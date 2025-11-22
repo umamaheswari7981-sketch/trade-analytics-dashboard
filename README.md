@@ -1,4 +1,4 @@
-# siddharth_trade_pipeline
+# trade-analytics-dashboard
 
 Project scaffold for the Siddharth Associates International Trade Data Analysis assignment.
 
