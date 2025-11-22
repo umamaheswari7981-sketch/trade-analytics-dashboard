@@ -1,0 +1,1 @@
+Open the notebook `siddharth_trade_pipeline_notebook.ipynb` and run the cells in order. Place your Excel in data/raw/sample_data.xlsx before running.
